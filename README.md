@@ -1,2 +1,2 @@
-# AEMIntegrations
+# AEM Integrations
 AEM Integrations 
